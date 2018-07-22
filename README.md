@@ -1,0 +1,2 @@
+# MGCompany
+GitHub Pages
